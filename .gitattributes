@@ -1,0 +1,8 @@
+read_data.py filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+create_model.py filter=lfs diff=lfs merge=lfs -text
+evaluate.py filter=lfs diff=lfs merge=lfs -text
+main.py filter=lfs diff=lfs merge=lfs -text
+__pycache__ filter=lfs diff=lfs merge=lfs -text
+data filter=lfs diff=lfs merge=lfs -text
+venv filter=lfs diff=lfs merge=lfs -text
